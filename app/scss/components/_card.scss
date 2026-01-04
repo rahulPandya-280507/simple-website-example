@@ -1,0 +1,5 @@
+@use '../util' as u;
+
+.card {
+    padding: u.rem(20);
+}
